@@ -15,3 +15,10 @@
 - ✨ **双框对话体验**：同时输入一次 Prompt，即可获得两个模型的不同输出
 - 🎯 **无登录试用模式**：无需注册，打开即用
 - 📊 后续会支持其他大模型的比对
+
+# 2. View Multiple Images Side by Side - 多图同时查看
+
+欢迎体验 The Ultimate Online Image Comparison Tool。
+
+🚀 在线体验地址：
+👉 [https://www.view-multiple-images.com/](https://www.view-multiple-images.com/)
