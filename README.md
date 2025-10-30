@@ -20,5 +20,4 @@
 
 欢迎体验 The Ultimate Online Image Comparison Tool。
 
-🚀 在线体验地址：
-👉 [View or Compare Multiple Images Online ](https://www.view-multiple-images.com/)
+🚀 **在线体验**：[https://www.view-multiple-images.com](https://www.view-multiple-images.com/)
